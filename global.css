@@ -1,0 +1,67 @@
+/* Leeds Creatives Global Branding */
+.lc-branding-bar {
+    color: #ececec;
+    display: inline-block;
+    margin-left: 1em;
+    position: absolute;
+}
+
+.lc-corner-branding, .lc-corner-site {
+    background-color: #1a1a1a;
+    padding: 0.75em;
+    font-weight: bold;
+}
+
+.lc-branding-bar img {
+    height: 1.5em;
+    width: auto;
+    vertical-align: center;
+    margin-top: -0.2em;
+    margin-right: 0.2em;
+}
+
+.lc-corner-sitelist {
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in;
+}
+
+.lc-branding-bar:hover .lc-corner-sitelist {
+    max-height: 100vh;
+}
+
+.lc-corner-site {
+    transition: all .3s ease-in-out; 
+}
+
+.lc-corner-site:hover {
+    transform: scale(1.05); 
+
+}
+
+.lc-corner-site a {
+    color: #ececec;
+    text-decoration: none;
+}
+
+
+/* Useful global theming */
+.bg-lsr {
+    background-color: #650014;
+}
+
+.bg-lstv {
+    background-color: #5D2470;
+}
+
+.bg-gryphon {
+    background-color: #214A2C;
+}
+
+.bg-nc {
+    background-color: #12112C;
+}
+
+.bg-lc {
+    background-color: #182C61;
+}
