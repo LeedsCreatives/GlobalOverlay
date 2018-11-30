@@ -18,7 +18,7 @@ $(document).ready(function() {
     topCorner +=        '</div>'
 
     topCorner +=        '<div class="lc-corner-site bg-lstv">'
-    topCorner +=            '<a href="http://thisislsr.com"><img src="http://www.thisislsr.com/wp-content/uploads/2018/10/logo.png" /> Leeds Student Television</a>'
+    topCorner +=            '<a href="http://thisislsr.com"><img src="https://raw.githubusercontent.com/LeedsCreatives/GlobalOverlay/master/img/logo-lstv.png" /> Leeds Student Television</a>'
     topCorner +=        '</div>'
 
 
