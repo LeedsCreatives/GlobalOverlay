@@ -1,15 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+.lc-corner-site, .lc-corner-branding {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
 /* Leeds Creatives Global Branding */
 .lc-branding-bar {
     color: #ececec;
     display: inline-block;
     margin-left: 1em;
     position: absolute;
+    z-index: 9001;
 }
 
 .lc-corner-branding, .lc-corner-site {
     background-color: #1a1a1a;
     padding: 0.75em;
-    font-weight: bold;
 }
 
 .lc-branding-bar img {
