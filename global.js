@@ -14,7 +14,7 @@ $(document).ready(function() {
     topCorner +=        '</div>'
 
     topCorner +=        '<div class="lc-corner-site bg-lsr">'
-    topCorner +=            '<a href="http://thisislsr.com"><img src="/img/logo-lsr.png" /> Leeds Student Radio</a>'
+    topCorner +=            '<a href="http://thisislsr.com"><img src="https://raw.githubusercontent.com/LeedsCreatives/GlobalOverlay/master/img/logo-lsr.png" /> Leeds Student Radio</a>'
     topCorner +=        '</div>'
 
     topCorner +=        '<div class="lc-corner-site bg-lstv">'
@@ -23,11 +23,11 @@ $(document).ready(function() {
 
 
     topCorner +=        '<div class="lc-corner-site bg-gryphon">'
-    topCorner +=            '<a href="http://thisislsr.com"><img src="http://www.thisislsr.com/wp-content/uploads/2018/10/logo.png" /> The Gryphon</a>'
+    topCorner +=            '<a href="http://thisislsr.com"><img src="https://raw.githubusercontent.com/LeedsCreatives/GlobalOverlay/master/img/logo-gryphon.png" /> The Gryphon</a>'
     topCorner +=        '</div>'
 
     topCorner +=        '<div class="lc-corner-site bg-nc">'
-    topCorner +=            '<a href="http://thisislsr.com"><img src="./img/logo-nc.png" /> The Northern Connection</a>'
+    topCorner +=            '<a href="http://thisislsr.com"><img src="https://raw.githubusercontent.com/LeedsCreatives/GlobalOverlay/master/img/logo-nc.png" /> The Northern Connection</a>'
     topCorner +=        '</div>'
 
     topCorner +=    '</div>'
